@@ -2,7 +2,7 @@
 # A Simple Pixel Art Creative Suite for all your basic Sprite project needs. 
 
 You can use these tools to create pixel based games, Sprite artwork, and more. Designed simplistically 
-for basic use and as an educational tool. The code and usage is free to modify and use. 
+for basic use and as an educational tool. The code and usage is free to modify and use. Totally unfanciful and basic. 
 
 
 
