@@ -8,7 +8,7 @@ import math
 #############################################################################
 ##                                                                         ##
 ## Pixel Forge 32px                                                        ##
-## Copyright (C) 2024  Justin Garcia                                       ##
+## Copyright (C) 2024  Bluehatchet                                         ##
 ##                                                                         ##
 ## This program is free software: you can redistribute it and/or modify    ##
 ## it under the terms of the GNU General Public License as published by    ##
